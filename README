@@ -1,0 +1,3 @@
+Projekt rozpoznawania typów szkła na podstawie https://www.kaggle.com/datasets/uciml/glass
+Problem natury uczenia nadzorowanego
+Użyte klasyfikatory: k-najbliższych sąsiadów, najbliższego prototypu, klasyfikator Bayesowski i drzewa decyzyjne
